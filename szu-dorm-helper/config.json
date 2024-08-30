@@ -1,0 +1,19 @@
+{
+  "room_name": "1010",
+  "room_id": "1010",
+  "client": "192.168.84.110",
+  "interval_day": 14,
+  "remind_daily": true,
+  "server_chan_key": "https://sc.ftqq.com/testuser.send",
+  "remind_time": 9,
+  "email_config": {
+    "send_email": true,
+    "mail_host": "smtp.qq.com",
+    "mail_user": "test@qq.com",
+    "mail_pass": "testpassword",
+    "receivers": [
+      "testemail@qq.com",
+      "testemail2@qq.com"
+    ]
+  }
+}
