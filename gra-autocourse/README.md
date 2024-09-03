@@ -10,4 +10,4 @@
 
 tips：cookie在gotoChooseCourse.do文件中找到，课程编号在loadJhnCourseInfo.do文件中找到对应课程的BJDM并填入classList中。
 
-![image-20240903170459936](C:\Users\AMOS\AppData\Roaming\Typora\typora-user-images\image-20240903170459936.png)
+![image-20240903170459936](./picture/classList说明.png)
